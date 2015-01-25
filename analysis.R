@@ -25,7 +25,7 @@
   featureNames <- read.table(FeaturesFile,stringsAsFactors=FALSE)[[2]]
   colnames(testAndTraining) <- featureNames
 
-# only select the columns that have mean, std or activityLabel in their name
+# only select the columns that have mean, std in their name
   testAndTraining <- testAndTraining[,grep("mean|std|activityLabel",featureNames)]
 
 # rename variable names to more readable form. There is a lot so I decided to use

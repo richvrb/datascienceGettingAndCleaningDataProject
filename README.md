@@ -31,7 +31,7 @@ The following steps were taken to fullfill this assigment :
 - Alle the file locations are set relative to the working directory 
 - The test and train files are merged
 - feature names are assigned as column names
-- a subset is taken of the columns that have mean, std or activityLabel in their name
+- a subset is taken of the columns that have mean, std in their name
 - The columns are renamed to a more meaning full name, actually only special characters have been taken out as I had no clue how to do it differently and this was easiest 
 - activities and lables are added
 - subjects are added
