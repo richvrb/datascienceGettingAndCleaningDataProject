@@ -1,0 +1,90 @@
+---
+title: "Untitled"
+author: "richard verbrugge"
+date: "Sunday, January 25, 2015"
+output: html_document
+---
+
+| sequence | Field                               | type    |
+|----------|-------------------------------------|---------|
+| 1        | subject                             | integer |
+| 2        | activity                            | string  |
+| 3        | meanTimeBodyAccMeanX                | float   |
+| 4        | meanTimeBodyAccMeanY                | float   |
+| 5        | meanTimeBodyAccMeanZ                | float   |
+| 6        | meanTimeBodyAccStdX                 | float   |
+| 7        | meanTimeBodyAccStdY                 | float   |
+| 8        | meanTimeBodyAccStdZ                 | float   |
+| 9        | meanTimeGravityAccMeanX             | float   |
+| 10       | meanTimeGravityAccMeanY             | float   |
+| 11       | meanTimeGravityAccMeanZ             | float   |
+| 12       | meanTimeGravityAccStdX              | float   |
+| 13       | meanTimeGravityAccStdY              | float   |
+| 14       | meanTimeGravityAccStdZ              | float   |
+| 15       | meanTimeBodyAccJerkMeanX            | float   |
+| 16       | meanTimeBodyAccJerkMeanY            | float   |
+| 17       | meanTimeBodyAccJerkMeanZ            | float   |
+| 18       | meanTimeBodyAccJerkStdX             | float   |
+| 19       | meanTimeBodyAccJerkStdY             | float   |
+| 20       | meanTimeBodyAccJerkStdZ             | float   |
+| 21       | meanTimeBodyGyroMeanX               | float   |
+| 22       | meanTimeBodyGyroMeanY               | float   |
+| 23       | meanTimeBodyGyroMeanZ               | float   |
+| 24       | meanTimeBodyGyroStdX                | float   |
+| 25       | meanTimeBodyGyroStdY                | float   |
+| 26       | meanTimeBodyGyroStdZ                | float   |
+| 27       | meanTimeBodyGyroJerkMeanX           | float   |
+| 28       | meanTimeBodyGyroJerkMeanY           | float   |
+| 29       | meanTimeBodyGyroJerkMeanZ           | float   |
+| 30       | meanTimeBodyGyroJerkStdX            | float   |
+| 31       | meanTimeBodyGyroJerkStdY            | float   |
+| 32       | meanTimeBodyGyroJerkStdZ            | float   |
+| 33       | meanTimeBodyAccMagMean              | float   |
+| 34       | meanTimeBodyAccMagStd               | float   |
+| 35       | meanTimeGravityAccMagMean           | float   |
+| 36       | meanTimeGravityAccMagStd            | float   |
+| 37       | meanTimeBodyAccJerkMagMean          | float   |
+| 38       | meanTimeBodyAccJerkMagStd           | float   |
+| 39       | meanTimeBodyGyroMagMean             | float   |
+| 40       | meanTimeBodyGyroMagStd              | float   |
+| 41       | meanTimeBodyGyroJerkMagMean         | float   |
+| 42       | meanTimeBodyGyroJerkMagStd          | float   |
+| 43       | meanFreqBodyAccMeanX                | float   |
+| 44       | meanFreqBodyAccMeanY                | float   |
+| 45       | meanFreqBodyAccMeanZ                | float   |
+| 46       | meanFreqBodyAccStdX                 | float   |
+| 47       | meanFreqBodyAccStdY                 | float   |
+| 48       | meanFreqBodyAccStdZ                 | float   |
+| 49       | meanFreqBodyAccMeanmeanFreqX        | float   |
+| 50       | meanFreqBodyAccMeanmeanFreqY        | float   |
+| 51       | meanFreqBodyAccMeanmeanFreqZ        | float   |
+| 52       | meanFreqBodyAccJerkMeanX            | float   |
+| 53       | meanFreqBodyAccJerkMeanY            | float   |
+| 54       | meanFreqBodyAccJerkMeanZ            | float   |
+| 55       | meanFreqBodyAccJerkStdX             | float   |
+| 56       | meanFreqBodyAccJerkStdY             | float   |
+| 57       | meanFreqBodyAccJerkStdZ             | float   |
+| 58       | meanFreqBodyAccJerkMeanmeanFreqX    | float   |
+| 59       | meanFreqBodyAccJerkMeanmeanFreqY    | float   |
+| 60       | meanFreqBodyAccJerkMeanmeanFreqZ    | float   |
+| 61       | meanFreqBodyGyroMeanX               | float   |
+| 62       | meanFreqBodyGyroMeanY               | float   |
+| 63       | meanFreqBodyGyroMeanZ               | float   |
+| 64       | meanFreqBodyGyroStdX                | float   |
+| 65       | meanFreqBodyGyroStdY                | float   |
+| 66       | meanFreqBodyGyroStdZ                | float   |
+| 67       | meanFreqBodyGyroMeanmeanFreqX       | float   |
+| 68       | meanFreqBodyGyroMeanmeanFreqY       | float   |
+| 69       | meanFreqBodyGyroMeanmeanFreqZ       | float   |
+| 70       | meanFreqBodyAccMagMean              | float   |
+| 71       | meanFreqBodyAccMagStd               | float   |
+| 72       | meanFreqBodyAccMagMeanmeanFreq      | float   |
+| 73       | meanFreqBodyAccJerkMagMean          | float   |
+| 74       | meanFreqBodyAccJerkMagStd           | float   |
+| 75       | meanFreqBodyAccJerkMagMeanmeanFreq  | float   |
+| 76       | meanFreqBodyGyroMagMean             | float   |
+| 77       | meanFreqBodyGyroMagStd              | float   |
+| 78       | meanFreqBodyGyroMagMeanmeanFreq     | float   |
+| 79       | meanFreqBodyGyroJerkMagMean         | float   |
+| 80       | meanFreqBodyGyroJerkMagStd          | float   |
+| 81       | meanFreqBodyGyroJerkMagMeanmeanFreq | float   |
